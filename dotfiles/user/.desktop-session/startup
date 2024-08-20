@@ -57,7 +57,7 @@ fbxkb-start &
 #ds-mouse -all &
 
 ## Uncomment if using network-manager  (you need to install it)
-nm-applet &
+# nm-applet &
 
 
 ## Used on live system only
